@@ -1,0 +1,28 @@
+topic: ~introductions []
+
+t: Hi, I will help you plan your travel.
+ ^respond(~question)
+
+u: SOURCE (be * at _*)
+   OK, you want to go from _0.
+   $source = '_0
+   ^respond(~question)
+
+u: TARGET (go to _*)
+   $target = '_0
+   OK, you want to go to $target .
+   ^respond(~question)
+
+u: DEFAULT ()
+   ^respond(~question)
+
+topic: ~question repeat keep nostay []
+
+u: (!$source)
+   Where are you?
+
+u: (!$target)
+   Where do you want to go?
+
+u: ($source $target)
+   You want to go from $source to $target . 

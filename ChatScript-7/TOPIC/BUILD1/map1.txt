@@ -1,0 +1,219 @@
+﻿file: /media/psf/Home/Documents/ChatScript_cjs/ChatScript-7/../Dorothy/childhood.top 0
+    topic: ~childhood 2
+        rule: ~childhood.0.0- t:  6
+          line: 6 0
+        rule: ~childhood.0.1 a:  9
+          line: 9 0
+        rule: ~childhood.0.2 a:  12
+          line: 12 0
+        rule: ~childhood.1.0-RUNAWAY t:  14
+          line: 14 0
+        rule: ~childhood.2.0- t:  16
+          line: 16 0
+        rule: ~childhood.2.1 a:  19
+          line: 19 0
+        rule: ~childhood.2.2 a:  22
+          line: 22 0
+        rule: ~childhood.2.3 a:  25
+          line: 25 0
+        rule: ~childhood.2.4 a:  28
+          line: 28 0
+        rule: ~childhood.2.5 a:  31
+          line: 31 0
+        rule: ~childhood.2.6 a:  34
+          line: 34 0
+        rule: ~childhood.2.7 a:  37
+          line: 37 0
+        rule: ~childhood.2.8 a:  40
+          line: 40 0
+        rule: ~childhood.2.9 b:  43
+          line: 43 0
+        rule: ~childhood.2.10 b:  46
+          line: 46 0
+        rule: ~childhood.3.0-SCARE t:  48
+          line: 48 0
+        rule: ~childhood.4.0- t:  50
+          line: 50 0
+        rule: ~childhood.5.0 u:  53
+          line: 53 0
+        rule: ~childhood.6.0-HAPPY u:  56
+          line: 56 0
+        rule: ~childhood.7.0 u:  59
+          line: 59 0
+        rule: ~childhood.8.0 u:  62
+          line: 62 0
+        rule: ~childhood.9.0 u:  65
+          line: 65 0
+        rule: ~childhood.10.0 u:  68
+          line: 68 0
+          line: 70 46
+file: /media/psf/Home/Documents/ChatScript_cjs/ChatScript-7/../Dorothy/introductions.top 0
+    topic: ~introductions 2
+        rule: ~introductions.0.0 t:  5
+          line: 6 0
+          line: 7 10
+        rule: ~introductions.1.0 t:  10
+          line: 11 0
+          line: 12 10
+        rule: ~introductions.2.0- t:  15
+          line: 15 0
+        rule: ~introductions.2.1 a:  17
+          line: 17 0
+        rule: ~introductions.2.2 a:  19
+          line: 19 0
+        rule: ~introductions.3.0 u:  23
+          line: 23 0
+          line: 25 14
+file: /media/psf/Home/Documents/ChatScript_cjs/ChatScript-7/../Dorothy/keywordless.top 0
+    topic: ~keywordless 4
+        rule: ~keywordless.0.0 u:  6
+          line: 6 0
+        rule: ~keywordless.1.0 ?:  9
+          line: 9 0
+        rule: ~keywordless.2.0 u:  13
+          line: 13 0
+        rule: ~keywordless.3.0 ?:  15
+          line: 15 0
+          line: 16 18
+          line: 17 29
+          line: 18 174
+          line: 21 329
+        rule: ~keywordless.4.0 ?:  24
+          line: 24 0
+          line: 25 54
+          line: 26 62
+          line: 27 207
+          line: 30 362
+        rule: ~keywordless.5.0 ?:  33
+          line: 33 0
+          line: 34 40
+          line: 35 48
+          line: 36 193
+          line: 39 348
+          line: 42 387
+file: /media/psf/Home/Documents/ChatScript_cjs/ChatScript-7/../Dorothy/kpop.top 0
+    topic: ~kpop 2
+        rule: ~kpop.0.0-KPOPINTRO t:  4
+          line: 4 0
+        rule: ~kpop.1.0-KPOP t:  5
+          line: 5 0
+        rule: ~kpop.2.0-TNO t:  6
+          line: 6 0
+        rule: ~kpop.3.0 ?:  9
+          line: 9 0
+        rule: ~kpop.4.0 ?:  12
+          line: 12 0
+        rule: ~kpop.5.0 ?:  15
+          line: 15 0
+        rule: ~kpop.6.0 ?:  18
+          line: 18 0
+        rule: ~kpop.7.0 ?:  21
+          line: 21 0
+          line: 23 4
+file: /media/psf/Home/Documents/ChatScript_cjs/ChatScript-7/../Dorothy/kpopConcept.top 0
+    concept: ~투애니원사전 1
+    concept: ~티아라사전 2
+    concept: ~마마무사전 3
+    concept: ~투애니원 5
+    concept: ~티아라 6
+    concept: ~마마무 7
+    concept: ~노래 8
+    macro: ^nounpluspp 10
+          line: 12 0
+          line: 14 17
+          line: 15 57
+          line: 16 89
+    macro: ^addelement 20
+          line: 22 0
+          line: 24 17
+          line: 25 57
+          line: 26 88
+          line: 27 124
+file: /media/psf/Home/Documents/ChatScript_cjs/ChatScript-7/../Dorothy/LIVEDATA 0
+file: /media/psf/Home/Documents/ChatScript_cjs/ChatScript-7/../Dorothy/RAWDATA 0
+file: /media/psf/Home/Documents/ChatScript_cjs/ChatScript-7/../Dorothy/simplecontrol.top 0
+    macro: ^dorothy 2
+          line: 3 0
+          line: 5 54
+          line: 6 89
+          line: 8 108
+          line: 9 131
+          line: 12 0
+    topic: ~control 16
+        rule: ~control.0.0 u:  19
+          line: 20 0
+        rule: ~control.1.0 u:  22
+          line: 22 0
+        rule: ~control.2.0 u:  23
+          line: 23 0
+        rule: ~control.3.0 u:  25
+          line: 25 0
+        rule: ~control.4.0 u:  26
+          line: 26 0
+        rule: ~control.5.0 u:  27
+          line: 27 0
+        rule: ~control.6.0 u:  28
+          line: 28 0
+        rule: ~control.7.0 u:  29
+          line: 29 0
+        rule: ~control.8.0 u:  30
+          line: 30 0
+        rule: ~control.9.0 u:  32
+          line: 34 0
+          line: 36 17
+          line: 38 88
+          line: 40 140
+          line: 43 187
+          line: 45 270
+          line: 47 305
+          line: 48 331
+          line: 50 348
+          line: 51 381
+          line: 52 420
+          line: 54 449
+          line: 56 465
+          line: 57 471
+          line: 60 473
+          line: 62 508
+          line: 68 554
+          line: 70 604
+          line: 74 650
+          line: 76 704
+          line: 80 721
+          line: 82 834
+          line: 84 869
+          line: 85 895
+          line: 87 912
+          line: 88 945
+          line: 89 983
+          line: 91 1012
+          line: 93 1028
+          line: 94 1034
+          line: 95 1036
+          line: 97 1118
+          line: 99 1153
+          line: 100 1178
+          line: 102 1195
+          line: 103 1227
+          line: 104 1265
+          line: 106 1294
+          line: 108 1310
+          line: 109 1316
+          line: 111 1318
+          line: 113 1353
+          line: 114 1367
+          line: 115 1388
+          Complexity of rule ~control.9.0- u: 16
+    topic: ~xpostprocess 118
+        rule: ~xpostprocess.0.0 t:  120
+          line: 121 0
+          line: 123 17
+          line: 124 47
+          line: 126 104
+          line: 127 114
+          line: 129 155
+          line: 130 161
+          Complexity of rule ~xpostprocess.0.0- t: 2
+file: /media/psf/Home/Documents/ChatScript_cjs/ChatScript-7/../Dorothy/LiveData/ENGLISH 0
+file: /media/psf/Home/Documents/ChatScript_cjs/ChatScript-7/../Dorothy/LiveData/GERMAN 0
+file: /media/psf/Home/Documents/ChatScript_cjs/ChatScript-7/../Dorothy/LiveData/SYSTEM 0
